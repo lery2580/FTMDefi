@@ -1,0 +1,64 @@
+body{
+   background-color: #E4E9F3;
+   font-family: 'Noto Sans SC', sans-serif;
+   font-family: 'Roboto', sans-serif;
+}
+
+.leftnav{
+    background-color:#fff;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    height: 100%;
+    width: 280px;
+    border-radius: 0 32px 32px 0 ;
+}
+
+.leftnav img{
+    margin-left: 40px;
+    margin-top: 56px;
+}
+
+.leftnav ul{
+    margin-top: 60px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 22px;
+    color: #11142d ;
+
+}
+
+.defualt{
+    margin-bottom: 48px;
+    opacity: 0.2;
+
+}
+
+.selected{
+    color:  #1969FF;
+    opacity: 1;
+    margin-bottom: 48px;
+    font-weight: 700;
+    border-right: 4px solid #1969FF;
+}
+
+.selected a{
+    text-decoration: none;
+    color:  #1969FF;
+}
+.lan{
+    margin-left: 40px;
+    bottom:50px;
+    position: fixed;
+    color:  #11142D;
+    font-weight: 400;
+}
+
+.wrap{
+    max-width: 1060;
+    margin-left: auto;
+    margin-right: auto;
+}
+.market{
+    
+}
